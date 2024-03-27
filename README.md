@@ -3,7 +3,7 @@
 In this project, I will deploy a static website to AWS using S3, CloudFront, and IAM.
 
 ## Website URL: d2d31cis1j6gs6.cloudfront.net
-[Travel Blog](d2d31cis1j6gs6.cloudfront.net)
+[Travel Blog](https://d2d31cis1j6gs6.cloudfront.net/)
 
 ## The files included are: 
 
